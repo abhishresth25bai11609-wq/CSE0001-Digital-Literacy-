@@ -13,7 +13,7 @@ This project focuses on developing digital literacy skills essential for student
 
 The project includes practical tasks like creating an infographic, designing a quiz, writing professional emails, and building awareness about responsible social media use.
 
-\---
+---
 
 ## 📚 Module Summaries
 
@@ -37,7 +37,7 @@ Building a positive digital identity using platforms like LinkedIn and maintaini
 
 Practicing formal communication through emails and understanding how tone and clarity impact communication.
 
-\---
+---
 
 ## 🛠️ Tools \& Platforms Used
 
@@ -48,7 +48,7 @@ Practicing formal communication through emails and understanding how tone and cl
 * Kaggle
 * CodeChef
 
-\---
+---
 
 ## 🔗 Project Links
 
@@ -65,7 +65,7 @@ Practicing formal communication through emails and understanding how tone and cl
 * Practiced professional communication
 * Gained experience using important digital tools
 
-\---
+---
 
 ## ✅ Conclusion
 
