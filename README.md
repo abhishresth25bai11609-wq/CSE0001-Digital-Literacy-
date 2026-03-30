@@ -54,7 +54,7 @@ Practicing formal communication through emails and understanding how tone and cl
 
 * GitHub Profile: https://github.com/abhishresth25bai11609-wq
 * Canva Infographic: https://www.canva.com/design/DAHFXKc45aE?ui=eyJLIjp7IkEiOiIxNjVmNDBiYy0zMjkyLTQxODMtYjE0OC02Mjk1ZDM1Y2ViMjQifX0
-* Google Form Quiz: https://docs.google.com/forms/d/1-\_3eBiNFBRvRRrH4Y9yHuBs5XrhyRheQrRhUTkPDHTg/viewform?edit\_requested=true
+* Google Form Quiz: (https://docs.google.com/forms/d/e/1FAIpQLSfHLVIXtdjMifiWp2OupLscAYYXKv6eiYV1UrgMJuYQGwObcQ/viewform?usp=header)
 * LinkedIn Profile:https://www.linkedin.com/in/abhishresth-verma-bb1b353ba/
 * Kaggle Profile:https://www.kaggle.com/abhishresthverma
 
